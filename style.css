@@ -1,0 +1,27 @@
+#title {
+font-family: 'Limelight', cursive;
+font-size: 50px
+}
+
+#image {
+width: 100%;
+height: auto;
+max-width: 400px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+border: 5px solid black;
+border-radius: 5%;
+box-shadow: 10;
+}
+
+header {
+text-align: center;
+}
+
+
+#description {
+font-family: 'Montserrat', sans-serif;
+font-size: 24px;
+margin-top: -20px;
+}
